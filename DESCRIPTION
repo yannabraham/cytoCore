@@ -1,0 +1,10 @@
+Package: cytoCore
+Type: Package
+Title: extending flowCore for CyTOF data analysis
+Version: 0.1.2
+Date: 2015-11-10
+Author: Yann Abraham
+Maintainer: Yann Abraham <yann.abraham@gmail.com>
+Depends: R (>= 2.15), flowCore, flowViz, stringr
+Description: provides some helper function to deal with CyTOF data within the flowCore paradigm 
+License: CC BY-NC-SA 3.0
